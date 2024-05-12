@@ -1,7 +1,7 @@
 ### Hi there, my name is Iraklis👋
 
 # 💫 About Me:
-🔭 I’m currently working on projects with python, ts, js, react, next, node, sql<br>👯 I’m looking to collaborate on any interesting Fullstack projects<br>⚡ I’m currently learning AWS, Jenkins, Docker and Kubernetes
+🔭 I’m currently working on projects with Python, Typescript, Javascript, React, Next, Node, SQL, NOSQL<br>👯 I’m looking to collaborate on any interesting Fullstack projects<br>⚡ I’m currently learning AWS, Jenkins, Docker and Kubernetes
 
 
 ## 🌐 Socials:
