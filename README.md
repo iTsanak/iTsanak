@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iraklis-tsanachtsidis-a67500232) 
-![Website](https://img.shields.io/website?url=https%3A%2F%2F3dportfolio-git-main-itsanaks-projects.vercel.app%2F)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=globe)](https://3dportfolio-itsanaks-projects.vercel.app/)
 
 
 # 💻 Tech Stack:
