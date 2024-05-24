@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on projects with Python, Typescript, Javascript, React, Next, Node, SQL, NoSQL<br>
-👯 I’m looking to collaborate on any interesting Backend or Fullstack projects<br>
+👯 I’m looking to collaborate on interesting Backend or Fullstack projects<br>
 ⚡ I’m currently learning AWS, Jenkins, Docker and Kubernetes
 
 
