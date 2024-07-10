@@ -7,6 +7,7 @@
 👯 I’m looking to collaborate on interesting Backend and Fullstack projects<br>
 ⚡ I’m currently learning AWS, Jenkins, Docker, LLMs and AI model fine tuning
 
+
 ## 🌐 Socials:
 <div align="left"> 
   <a href="mailto:iraklistsanaktsidis@gmail.com">
