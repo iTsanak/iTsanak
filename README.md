@@ -3,6 +3,7 @@
 </h1>
 
 
+
 # 💫 About Me:
 🔭 I’m currently working on projects using Python, Typescript, Javascript, React.js, Next.js, Node, SQL, NoSQL<br>
 👯 I’m looking to collaborate on interesting Backend and Fullstack projects<br>
